@@ -1,0 +1,36 @@
+to create the vite project 
+-------------------------------
+npm create vite@latest
+
+project name : typescript_tutorial
+vanilla 
+typescript
+
+cd typescript_tutorial
+npm install 
+npm run dev
+-------------------
+main.js  is the main file 
+
+
+==================================================
+data types 
+====================================================
+TypeScript offers a variety of data types, including 
+
+*primitives* like
+
+ `number`, `string`, `boolean`, and `null`.
+ 
+It also supports
+
+   *arrays**, **tuples**, **enums**, and **objects**. 
+   
+Additionally, TypeScript introduces advanced types such as
+ 
+ **any**, **unknown**, **void**, **never**, and **union* 
+ 
+ types, ensuring type safety and flexibility in coding.
+ ===================================================
+ explicit  vs implicit
+ ======================================
