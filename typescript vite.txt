@@ -34,3 +34,16 @@ Additionally, TypeScript introduces advanced types such as
  ===================================================
  explicit  vs implicit
  ======================================
+
+implicit = inferance
+explicit = type annotation
+
+ array 
+ objects 
+ function
+
+ interface
+ inheritance
+
+ type alias
+ =============================
