@@ -8,7 +8,7 @@ import "./interface"
 // 
 // // special types = void , null & undefined , never
 // 
-// 
+// js 
 // // let user = "sai"
 // // console.log(user)
 // 
