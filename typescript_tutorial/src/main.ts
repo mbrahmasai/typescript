@@ -1,4 +1,7 @@
-import './array_type'
+// import './array_type'
+// import './special'
+// import "./function"
+import "./interface"
 
 
 // // Datatypes = string , number , boolean , any , object, array , tuple 
@@ -37,14 +40,18 @@ import './array_type'
 // user = "Brahmasai"
 // user = 27  // it trows the error , user is declare a string type.
 // 
-// //------------------------------------------------
+//--------------------------------------------
 // // any
-// //-------------------------------------------------
+//----------------------------------------------
 // let username : any
 // username = "brahmasai"
 // username = 27
 // username = true
-// 
+
+// let a   // a is implicitly any
+// a = "apple"
+// a = 33
+
 // // ✅ Accepts any type
 // // ❌ Loses all type safety
 // // ⚠️ Use only when necessary (e.g., working with 3rd-party libraries or migrating legacy code)
